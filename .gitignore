@@ -1,5 +1,1 @@
-*.o
-*.swp
-bin/chatserver
-core
-httpapi/uploads
+/bin/*
